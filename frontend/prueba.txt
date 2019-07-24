@@ -1,0 +1,3 @@
+Charlie es un capo
+
+y me enseño a salir de vim con una sola letra
